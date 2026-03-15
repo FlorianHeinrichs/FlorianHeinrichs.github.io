@@ -1,2 +1,2 @@
 # FlorianHeinrichs.github.io
-** Personal website of Florian Heinrichs
+**Personal website of Florian Heinrichs
