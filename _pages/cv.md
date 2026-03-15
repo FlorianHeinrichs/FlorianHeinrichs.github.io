@@ -11,54 +11,42 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Mathematical Statistics, Ruhr University Bochum, 2020
+* M.Sc. in Mathematics, Ruhr University Bochum, 2016
+* B.Sc. in Mathematics, Ruhr University Bochum, 2014
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Since 09/2024: FH Aachen University of Applied Sciences
+  * Professor of Data Science & Statistics
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 09/2023 - 08/2024: Hochschule Darmstadt - University of Applied Sciences
+  * Professor of Artificial Intelligence
+    
+* 03/2021 ‑ 09/2023: SNAP GmbH
+  * Chief Data Scientist
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 10/2020 ‑ 02/2021: NOWEDA Apothekergenossenschaft eG
+  * Data Scientist
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* 10/2016 ‑ 09/2020: Chair of Stochastics, Ruhr‑University Bochum
+  *  Research Assistant
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+* 04/2018 ‑ 03/2019: Department of Mathematics, Universidad Autónoma de Madrid
+  * Visiting Researcher
   
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
-Service and leadership
+Research Interests
 ======
-* Currently signed in to 43 different slack teams
+* Time Series Analyis
+* Change and Outlier Detection
+* Functional Data Analyis
+* Non-parametric statistics
+  
+Professional Memberships
+======
+* Spanish Society of Statistics and Operations Research (SEIO), since 2018
+  * Working groups "Functional Data Analysis" and "Non-Parametric Statistics"
+* German Statistical Society e.V. (DStatG), since 2024
+* German Mathematical Society e.V. (DMV), since 2025
+* European Mathematical Society (EMS), since 2025
