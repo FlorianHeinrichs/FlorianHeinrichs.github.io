@@ -36,7 +36,7 @@ Published in *The Annals of Statistics*, 2021
 
 [A distribution free test for changes in the trend function of locally stationary processes](https://projecteuclid.org/journals/electronic-journal-of-statistics/volume-15/issue-2/A-distribution-free-test-for-changes-in-the-trend-function/10.1214/21-EJS1871.short)\
 **F. Heinrichs** and H. Dette\
-Published in *Electronic Journal of Statistics*
+Published in *Electronic Journal of Statistics*, 2021
 
 [Detecting deviations from second-order stationarity in locally stationary functional time series](https://link.springer.com/article/10.1007/s10463-019-00721-7)\
 A. Bücher, H. Dette and **F. Heinrichs**\
@@ -66,6 +66,10 @@ M. Varotto, **F. Heinrichs**, T. Schürg, S. Tomasin and S. Valentin\
 Pre-Prints
 ---
 
+[A Functional Central Limit Theorem for Localized Partial Sums of Non-Stationary Time Series](https://arxiv.org/abs/2607.17697)\
+**F. Heinrichs**\
+Submitted for publication (currently under review), 2026
+
 [Self-Normalization for CUSUM-based Change Detection in Locally Stationary Time Series](https://arxiv.org/abs/2509.07112)\
 **F. Heinrichs**\
 Submitted for publication (currently under review), 2025
@@ -73,7 +77,7 @@ Submitted for publication (currently under review), 2025
 [EEG-EyeTrack: A Benchmark for Time Series and Functional Data Analysis with Open Challenges and Baselines](https://arxiv.org/abs/2504.03760)\
 T. V. Afonso and **F. Heinrichs**\
 Submitted for publication (currently under review), 2025\
-Supplementary data descriptor: [Consumer-grade EEG-based Eye Tracking](https://arxiv.org/abs/2503.14322)\
+Supplementary data descriptor: [Consumer-grade EEG-based Eye Tracking](https://arxiv.org/abs/2503.14322)
 
 [Monitoring machine learning models: Online detection of relevant deviations](https://arxiv.org/abs/2309.15187)\
 **F. Heinrichs**\

@@ -10,19 +10,19 @@ I teach undergraduate and graduate courses in statistics, time series, and data 
 Courses at FH Aachen
 ---
 
-**Stochastics** (Introduction to probability theory and statistics, BSc)
+**Stochastics** (Introduction to probability theory and statistics, BSc)\
 Frequency/term: Winter term
 
-**Introduction to Data Science** (BSc)
+**Introduction to Data Science** (BSc)\
 Frequency/term: Summer term
 
-**Data Science in Medical Engineering** (BEng)
+**Data Science in Medical Engineering** (BEng)\
 Frequency/term: On request
 
-**Statistical Modelling 2** (Advanced course on regression, MSc)
+**Statistical Modelling 2** (Advanced course on regression, MSc)\
 Frequency/term: Winter term
 
-**Time Series and Forecasting** (Introduction to time series analysis, MSc)
+**Time Series and Forecasting** (Introduction to time series analysis, MSc)\
 Frequency/term: Summer term
 
 
