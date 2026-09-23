@@ -10,6 +10,10 @@ See also my [Google scholar page](https://scholar.google.com/citations?user=-W-Q
 Journal articles
 ---
 
+[EEG-EyeTrack: A Benchmark for Time Series and Functional Data Analysis with Open Challenges and Baselines](https://openreview.net/pdf?id=merpXrz6rK)\
+T. V. Afonso and **F. Heinrichs**\
+Published in *Transactions on Machine Learning Research*, 2026
+
 [A note on physical dependence and mixing conditions for triangular arrays](https://www.sciencedirect.com/science/article/pii/S0167715226000702)\
 **F. Heinrichs**\
 Published in *Statistics & Probability Letters*, 2026
@@ -67,17 +71,20 @@ Pre-Prints
 ---
 
 [A Functional Central Limit Theorem for Localized Partial Sums of Non-Stationary Time Series](https://arxiv.org/abs/2607.17697)\
+**F. Heinrichs** and L. A. Rodríguez\
+Submitted for publication (currently under review), 2026
+
+[Testing for Stable Intervals in Non-Stationary Time Series](https://arxiv.org/abs/2608.24194)\
+**F. Heinrichs**\
+Submitted for publication (currently under review), 2026
+
+[A Functional Central Limit Theorem for Localized Partial Sums of Non-Stationary Time Series](https://arxiv.org/abs/2607.17697)\
 **F. Heinrichs**\
 Submitted for publication (currently under review), 2026
 
 [Self-Normalization for CUSUM-based Change Detection in Locally Stationary Time Series](https://arxiv.org/abs/2509.07112)\
 **F. Heinrichs**\
 Submitted for publication (currently under review), 2025
-
-[EEG-EyeTrack: A Benchmark for Time Series and Functional Data Analysis with Open Challenges and Baselines](https://arxiv.org/abs/2504.03760)\
-T. V. Afonso and **F. Heinrichs**\
-Submitted for publication (currently under review), 2025\
-Supplementary data descriptor: [Consumer-grade EEG-based Eye Tracking](https://arxiv.org/abs/2503.14322)
 
 [Monitoring machine learning models: Online detection of relevant deviations](https://arxiv.org/abs/2309.15187)\
 **F. Heinrichs**\

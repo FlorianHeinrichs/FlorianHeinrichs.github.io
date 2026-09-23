@@ -20,7 +20,7 @@ Work experience
 * Since 09/2024: FH Aachen University of Applied Sciences
   * Professor of Data Science & Statistics
 
-* 09/2023 - 08/2024: Hochschule Darmstadt - University of Applied Sciences
+* 10/2023 - 08/2024: Hochschule Darmstadt - University of Applied Sciences
   * Professor of Artificial Intelligence
     
 * 03/2021 ‑ 09/2023: SNAP GmbH
