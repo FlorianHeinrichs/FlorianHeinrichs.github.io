@@ -70,7 +70,11 @@ M. Varotto, **F. Heinrichs**, T. Schürg, S. Tomasin and S. Valentin\
 Pre-Prints
 ---
 
-[A Functional Central Limit Theorem for Localized Partial Sums of Non-Stationary Time Series](https://arxiv.org/abs/2607.17697)\
+[Self-normalised change point tests that remain pivotal under non-stationarity](https://arxiv.org/abs/2610.39404)\
+**F. Heinrichs** and F. Mies\
+Submitted for publication (currently under review), 2026
+
+[A Functional Central Limit Theorem for Localized Partial Sums of Non-Stationary Time Series](https://arxiv.org/abs/2609.25791)\
 **F. Heinrichs** and L. A. Rodríguez\
 Submitted for publication (currently under review), 2026
 
@@ -88,7 +92,7 @@ Submitted for publication (currently under review), 2025
 
 [Monitoring machine learning models: Online detection of relevant deviations](https://arxiv.org/abs/2309.15187)\
 **F. Heinrichs**\
-Submitted for publication (currently under review), 2023
+Submitted for publication (accepted for publication), 2023
 
 
 Other Publications
